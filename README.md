@@ -14,7 +14,7 @@ body{
   font-family:Arial, sans-serif;
   margin:0;
   min-height:100vh;
-  background: url("https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1350&q=80") no-repeat center center fixed;
+  background: url("https://i.ibb.co/YTX5jq95/ow.jpg") no-repeat center center fixed;
   background-size: cover;
   display:flex;
   justify-content:center;
