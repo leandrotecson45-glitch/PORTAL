@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>MOBILE PORTAL</title>
+<title>PORTAL</title>
 
 <script src="https://cdn.jsdelivr.net/npm/piexifjs"></script>
 
@@ -163,7 +163,7 @@ input[type=range]{
 
 <div class="container">
 
-  <h1 class="title">MOBILE PHONE</h1>
+  <h1 class="title">PORTAL</h1>
 
   <div class="title-card">
     <h2>WELCOME PO!!!</h2>
