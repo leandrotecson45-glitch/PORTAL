@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <meta charset="UTF-8">
@@ -49,7 +49,7 @@ body::before{
   display:block;
   text-align:center;
   font-size:34px;
-  color:#60a5fa;
+  color:white;
   margin:0 auto 10px auto;
   text-shadow: 1px 1px 5px black;
 }
